@@ -133,3 +133,18 @@ WNURfull.setAttribute("src","images/WNURHoodie_4.jpg");
 function showWNURPhoto5(){
 WNURfull.setAttribute("src","images/WNURHoodie_5.jpg");
 	}
+
+
+
+
+
+/////////***BEGIN CAROUSEL****////////
+
+var $carousel = $('#carousel').carousel();
+  
+$('#carousel_prev').on('click', function(ev) {
+  $carousel.carousel('prev');
+});
+$('#carousel_next').on('click', function(ev) {
+  $carousel.carousel('next');
+});
