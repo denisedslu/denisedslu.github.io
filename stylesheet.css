@@ -52,7 +52,7 @@ li {
 }
 #nameplate {
 	background: url(images/homepage-background.jpg) 50% 30% repeat fixed;
-	min-height: 540px;
+	min-height: 600px;
 }
 #home-description {
 	color: #fff;
