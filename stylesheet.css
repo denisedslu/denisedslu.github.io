@@ -107,14 +107,11 @@ p {
 	font-family: 'Lato';
 	line-height: 25px;
 }
-#writing-section-wrap, #resume-section-wrap {
+#writing-section-wrap, #resume-section-wrap, #code-section-wrap {
 	width: 700px;
 }
 #design-section-wrap {
 	width: 810px;
-}
-#code-section-wrap {
-	width: 860px;
 }
 .design-thumb {
 	float: left;
@@ -154,13 +151,9 @@ div#slideshow ul#slideshow-nav li#next {
 	height: 504px;
 }
 .code-full {
-	width: 400px;
-}
-#tweetbeat {
-	float: left;
-}
-#yim {
-	float: right;
+	width: 500px;
+	margin: auto;
+	margin-top: 40px;
 }
 
 .slicknav_menu{
@@ -179,14 +172,6 @@ div#slideshow ul#slideshow-nav li#next {
 
 /***----MEDIA QUERIES----***/
 
-@media only screen and (max-width: 400px) {
-	.code-full {
-		width: 100%;
-	}
-	.code-full img{
-		width: 90%;
-	}
-}
 
 @media only screen and (max-width: 480px) {
 	li {
@@ -214,6 +199,12 @@ div#slideshow ul#slideshow-nav li#next {
 		width: 260px;
 		display: block;
 		margin: 5px auto;
+	}
+	.code-full {
+		width: 100%;
+	}
+	.code-full img{
+		width: 90%;
 	}
 }
 
@@ -283,27 +274,12 @@ div#slideshow ul#slideshow-nav li#next {
 	}
 }
 
-@media only screen and (max-width: 890px) {
-	#code-section-wrap {
-		width: 100%;
-	}
-	.code-full {
-		margin: auto;
-	}
-	#tweetbeat, #yim {
-		float: none;
-	}
-}
-
 @media only screen and (min-width: 481px) and (max-width: 768px) {
 	h1 {
 		font-size:60pt;
 	}
 	h2 {
 		font-size:25pt;
-	}
-	.code-full img{
-		margin: 20px;
 	}
 }
 
