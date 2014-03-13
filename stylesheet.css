@@ -156,6 +156,7 @@ div#slideshow ul#slideshow-nav li#next {
 	margin-bottom: 20px;
 	position: relative;
 	padding: 0;
+	z-index: -10;
 }
 
 .code-full h3 {
