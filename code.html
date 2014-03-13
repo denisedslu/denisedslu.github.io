@@ -98,11 +98,13 @@
 	<script type="text/javascript">
 		$(document).ready(function(){
 			
+			
 			$('#menu').slicknav({
 				label:''
 			});
 
 			$('.code-full').on('mouseover',function(){
+				
 				$(this).find('div.mask').animate({opacity: 0.8}, 100);
 			}).on('mouseout',function(){
 				$(this).find('div.mask').animate({opacity: 0}, 100);

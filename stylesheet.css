@@ -40,6 +40,7 @@ body {
 	text-align: center;
 	margin-top: -10px;
 	margin-left: -10px;
+	z-index: 5;
 }
 .navigation a:hover {
 	color: #e6e6e6;
@@ -134,7 +135,7 @@ p {
 	color: #888a89;
 }*/
 .design-arrow p {
-	font-size: 24px;
+	font-size: 20px;
 }
 #photo-section-wrap {
 	width: 1000px;
@@ -160,12 +161,11 @@ div#slideshow ul#slideshow-nav li#next {
 	height: 504px;
 }
 .code-full {
-	width: 500px;
 	margin: auto;
 	margin-bottom: 20px;
 	position: relative;
 	padding: 0;
-	z-index: -10;
+	z-index: 1;
 }
 
 .code-full h3 {
