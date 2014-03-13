@@ -124,8 +124,17 @@ p {
 .design-full img {
 	margin: 5px;
 }
-#design-arrow {
-	margin: 15px;
+/*.design-arrow {
+	width: 20%;
+	margin: 0 auto;
+}
+.design-arrow i {
+	float: left;
+	margin-right: 5px;
+	color: #888a89;
+}*/
+.design-arrow p {
+	font-size: 24px;
 }
 #photo-section-wrap {
 	width: 1000px;
