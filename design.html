@@ -33,27 +33,29 @@
 
 		<!-- Begin 'design' section -->
 		<div id="design-section-wrap" class="section-wrap">
-			<div class="design-thumb" id="sosala-thumb"><img src="images/SoSaLa_thumb.png"/></div>
-			<div class="design-thumb" id="wnurt-thumb"><img src="images/WNURTshirt_thumb.jpg" /></div>
-			<div class="design-thumb" id="tacet-thumb"><img src="images/Tacet_thumb.jpg" /></div>
-			<div class="design-thumb" id="wnurh-thumb"><img src="images/WNURHoodie_thumb.jpg" /></div>
-			<div class="design-thumb" id="gws-thumb"><img src="images/GWSposter_thumb.png" /></div>
-			<div class="design-thumb" id="bball-thumb"><a href="http://bit.ly/tiny-baseball" target="_blank"><img src="images/baseball_thumb.jpg" /></a></div>
-		
-			<div class="design-full" id="sosala"><p>Promotional poster for a jazz concert presented by WNUR 89.3FM at Northwestern University.</p><img src="images/SoSaLa.png"/></div>
-			
-			<div class="design-full" id="wnurt"><p>T-shirt design submission for WNUR 89.3FM's annual Phoneathon fundraiser.</p><img src="images/WNURTshirt.jpg"/></div>
-			
-			<div class="design-full" id="tacet"><p>Samples from an iPad magazine app made using Adobe InDesign CS5 DPS for a Medill media design class.</p><img src="images/Tacet_1.png"/><img src="images/Tacet_2.png"/></div>
-			
-			<div class="design-full" id="wnurh"><p>Hoodie design for the executive board of WNUR 89.3FM.</p><img src="images/WNURHoodie_1.jpg"/><img src="images/WNURHoodie_2.jpg"/><img src="images/WNURHoodie_3.jpg"/></div>
-			
-			<div class="design-full" id="gws"><p>Promotional poster for an experimental concert presented by WNUR 89.3FM at Northwestern University.</p><img src="images/GWSposter.png"/></div>
+				<div class="design-full" id="sosala">
+					<img src="images/design-sosala.png"/>
+				</div>
+				
+				<div class="design-full">
+					<img src="images/design-wnurbfast.jpg"/>
+				</div>
+				
+				<div class="design-full">
+					<img src="images/design-tacet.jpg"/>
+				</div>
+				
+				<div class="design-full">
+					<img src="images/design-gws.jpg"/>
+				</div>
 
-			<div class="design-arrow">
-				<p><a href="design.html"><i class="fa fa-chevron-left fa-lg"></i>back</a></p>
-			</div>
+				<div class="design-full">
+					<img src="images/design-hoodie.jpg"/>
+				</div>
 
+				<div class="design-full">
+					<img src="images/design-bball.jpg"/>
+				</div>
 		</div>
 		<!-- End 'design' section -->
 
@@ -65,11 +67,21 @@
 	<script src="js/jquery.slicknav.min.js"></script>
 	<script type="text/javascript">
 		$(document).ready(function(){
-		$('#menu').slicknav({
-			label:''
-		});
+			
+			$('#menu').slicknav({
+				label:''
+			});
+
+			$('#design-section-wrap').masonry({
+				columnWidth: 185,
+				itemSelector: '.design-full'
+			});
+
 		});
 	</script>
+<!-- 
 	<script type="text/javascript" src="js/design-script.js"></script>
+	 -->
+	<script type="text/javascript" src="js/masonry.min.js"></script>
 </body>
 </html>
