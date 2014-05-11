@@ -63,7 +63,7 @@ li#prev, li#next {
 	color: #fff;
 }
 h1{
-	font-family: Enriqueta-Bold,Georgia,serif;
+	font-family: Enriqueta-Regular,Georgia,serif;
 	font-size:100pt;
 	line-height: 120px;
 	text-align: center;
@@ -72,7 +72,7 @@ h1{
 	padding-top: 60px;
 }
 h2{
-	font-family: Enriqueta-Bold,Georgia,serif;
+	font-family: Enriqueta-Regular,Georgia,serif;
 	font-size:28pt;
 	text-align: center;
 }
