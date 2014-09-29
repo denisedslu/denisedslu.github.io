@@ -39,7 +39,7 @@
 	</div>
 
 	<!-- WRITING -->
-	<div class="row" id="writing">
+	<div class="row hide" id="writing">
 		<p class="head h3 fira-mono"><span>writing</span></p>
 		
 		<p class="h3 fira-mono">PBS Mediashift</p>
@@ -66,23 +66,23 @@
 	</div>
 
 	<!-- CODE -->
-	<div class="row" id="code">
+	<div class="row hide" id="code">
 		<p class="head h3 fira-mono"><span>code</span></p>
 	</div>
 
 	<!-- DESIGN -->
-	<div class="row" id="design">
+	<div class="row hide" id="design">
 		<p class="head h3 fira-mono"><span>design</span></p>
 	</div>
 
 	<!-- PHOTO -->
-	<div class="row" id="photo">
+	<div class="row hide" id="photo">
 		<p class="head h3 fira-mono"><span>photo</span></p>
 		<p class="fira-sans">DSLR stuff over at <a href="http://www.flickr.com/photos/denisedslu/" target="_blank">Flickr</a> and mobile stuff over at <a href="http://instagram.com/denisedslu_" target="_blank">Instagram</a>.<br/>I've also made tilt-shift <a href="http://bitchslapmag.com/2012/art/denise-lu-tilt-shift-series/" target="_blank">miniature fakes</a>.</p>
 	</div>
 
 	<!-- RESUME -->
-	<div class="row" id="resume">
+	<div class="row hide" id="resume">
 		<p class="head h3 fira-mono"><span>r&eacute;sum&eacute;</span></p>
 		
 		<p class="fira-sans">(<a href="http://www.deniselu.com/DeniseLu_resume.pdf" target="_blank">PDF</a>)</p>
@@ -169,7 +169,7 @@
 
 	<script type="text/html" id="code_block">
 		<div class="block code posrel">
-			<p class="posabs hide"><span>{{title}}</span></p>	
+			<p class="posabs hide"><a href="{{url}}" target="_blank"><span>{{title}}</span></a></p>	
 			<div class="mask hide posabs"></div>
 			<a href="{{url}}" target="_blank"><img alt="{{title}}" src="images/{{img}}"></a>
 		</div>
@@ -177,7 +177,7 @@
 
 	<script type="text/html" id="design_url_block">
 		<div class="block design posrel">
-			<p class="posabs hide"><span>{{title}}</span></p>	
+			<p class="posabs hide"><a href="{{url}}" target="_blank"><span>{{title}}</span></a></p>	
 			<div class="mask hide posabs"></div>
 			<a href="{{url}}" target="_blank"><img alt="{{title}}" src="images/{{img}}"></a>
 		</div>

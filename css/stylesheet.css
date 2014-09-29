@@ -59,6 +59,7 @@ div.row {
 
 div.row#about {
 	padding-top: 20px;
+	padding-bottom: 60px;
 }
 
 div.row#writing ul, div.row#resume ul, p.fira-sans {

@@ -55,9 +55,11 @@ function init() {
 
     function eventListeners() {
       $('ul.sticky a').on('click', function(e) {
+        $('div.row').show();
         e.preventDefault();
         var id = $(this).attr('href').replace('#','');
         var destination = $('div.row#' + id)
+
 
         if ($(window).innerWidth() < 600) {
           console.log($(window).innerWidth)
@@ -66,6 +68,9 @@ function init() {
           $('html,body').animate({scrollTop: $(destination).offset().top});
         }
 
+        if (id === 'about') {
+          $('div.row.hide').hide();
+        }
         
         
       });
