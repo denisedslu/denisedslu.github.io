@@ -19,11 +19,14 @@ var writing =
 
 var code =
 [
+{"url":"http://www.washingtonpost.com/graphics/local/dc-voter-demographics/","img":"code-dcvote.png","title":"Changing D.C. voter demographics"},
+{"url":"http://www.washingtonpost.com/graphics/local/dc-marijuana-map/","img":"code-fedland.png","title":"Marijuana still illegal on federal land"},
+{"url":"http://www.washingtonpost.com/wp-srv/special/local/witness-killings/","img":"code-witnesses.png","title":"Witness killings since 2004"},
 {"url":"http://www.washingtonpost.com/graphics/local/homicides/","img":"code-homicides.png","title":"Tracking D.C.-area homicides"},
-{"url":"http://www.washingtonpost.com/wp-srv/special/national/cia-interrogation-report/hayden-testimony/","img":"code-cia.png","title":"Hayden's CIA testimony"},
+// {"url":"http://www.washingtonpost.com/wp-srv/special/national/cia-interrogation-report/hayden-testimony/","img":"code-cia.png","title":"Hayden's CIA testimony"},
 {"url":"http://www.washingtonpost.com/wp-srv/special/national/ferguson-witnesses/","img":"code-ferguson.png","title":"Ferguson witness testimonies"},
 {"url":"http://www.washingtonpost.com/wp-srv/special/local/dc-mayor-2014/history/","img":"code-dc-mayor-history.gif","title":"D.C. mayor history"},
-{"url":"http://www.washingtonpost.com/wp-srv/special/local/dc-mayor-2014/general-analysis/","img":"code-dc-mayor-analysis.png","title":"How Muriel Bowser won D.C."},
+// {"url":"http://www.washingtonpost.com/wp-srv/special/local/dc-mayor-2014/general-analysis/","img":"code-dc-mayor-analysis.png","title":"How Muriel Bowser won D.C."},
 {"url":"http://www.washingtonpost.com/wp-srv/special/local/va-senate-2014/results/","img":"code-va-senate.png","title":"2014 Virginia U.S. Senate election results"},
 {"url":"http://www.washingtonpost.com/wp-srv/special/local/dc-mayor-2014/contributions/","img":"code-dc-mayor-money.png","title":"Money in the D.C. mayoral race"},
 {"url":"http://www.washingtonpost.com/wp-srv/special/local/dc-mayor-2014/voter-breakdown/","img":"code-dcvoters.png","title":"Who will pick D.C.'s new mayor?"},
