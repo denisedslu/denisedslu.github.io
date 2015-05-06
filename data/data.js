@@ -19,7 +19,7 @@ var writing =
 
 var code =
 [
-{"url":"http://www.washingtonpost.com/graphics/local/baltimore-riots-recap/","img":"code-baltimore.png","title":"Timeline and charges in Freddie Gray case"},
+{"url":"http://www.washingtonpost.com/graphics/local/baltimore-riots-recap/","img":"code-baltimore.png?2","title":"Timeline and charges in Freddie Gray case"},
 {"url":"http://www.washingtonpost.com/graphics/local/dc-voter-demographics/","img":"code-dcvote.png","title":"Changing D.C. voter demographics"},
 {"url":"http://www.washingtonpost.com/graphics/local/dc-marijuana-map/","img":"code-fedland.png","title":"Marijuana still illegal on federal land"},
 {"url":"http://www.washingtonpost.com/wp-srv/special/local/witness-killings/","img":"code-witnesses.png","title":"Witness killings since 2004"},
