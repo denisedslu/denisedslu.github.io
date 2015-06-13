@@ -48,9 +48,9 @@ var design =
 [{"url":"","img":"design-wnurbfast.jpg","title":"WNUR 89.3FM mug design"},
 {"url":"http://www.washingtonpost.com/blogs/innovations/wp/2014/07/23/what-paris-looks-like-with-an-echo/","img":"design-databending.png","title":"What Paris looks like with an echo - databending"},
 {"url":"http://denisedslu.tumblr.com/post/78754386381/im-a-sucker-for-digital-collages-and-ive-been","img":"design-bball.jpg","title":"Tiny baseball - photo mash"},
-{"url":"http://mirandawillson.bandcamp.com/album/new-years-revolution","img":"design-mwillson.jpg","title":"Miranda Willson album design"},
-{"url":"","img":"design-gws.jpg","title":"Good Willsmith gig poster"},
-{"url":"","img":"design-hoodie.jpg","title":"WNUR 89.3FM hoodie design"}]
+{"url":"http://mirandawillson.bandcamp.com/album/new-years-revolution","img":"design-mwillson.jpg","title":"Miranda Willson album design"}
+// {"url":"","img":"design-gws.jpg","title":"Good Willsmith gig poster"},
+// {"url":"","img":"design-hoodie.jpg","title":"WNUR 89.3FM hoodie design"}]
 
 var photo = 
 [{"img":"photo-1.jpg","title":"Park Avenue voice tunnel, New York"},
@@ -62,8 +62,8 @@ var photo =
 {"img":"photo-7.jpg","title":"Centre Pompidou, Paris"},
 {"img":"photo-8.jpg","title":"Oberhofer, Brooklyn"},
 {"img":"photo-9.jpg","title":"In It Together Fest, D.C."},
-{"img":"photo-10.jpg","title":"Lincoln Center, New York"},
-{"img":"photo-11.jpg","title":"New York Botanical Garden"},
+// {"img":"photo-10.jpg","title":"Lincoln Center, New York"},
+// {"img":"photo-11.jpg","title":"New York Botanical Garden"},
 {"img":"photo-12.jpg","title":"Cave, Chicago"},
-{"img":"photo-13.jpg","title":"La Barceloneta, Barcelona"},
+// {"img":"photo-13.jpg","title":"La Barceloneta, Barcelona"},
 {"img":"photo-14.jpg","title":"Uptown, Chicago"}]
