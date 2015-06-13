@@ -48,7 +48,7 @@ var design =
 [{"url":"","img":"design-wnurbfast.jpg","title":"WNUR 89.3FM mug design"},
 {"url":"http://www.washingtonpost.com/blogs/innovations/wp/2014/07/23/what-paris-looks-like-with-an-echo/","img":"design-databending.png","title":"What Paris looks like with an echo - databending"},
 {"url":"http://denisedslu.tumblr.com/post/78754386381/im-a-sucker-for-digital-collages-and-ive-been","img":"design-bball.jpg","title":"Tiny baseball - photo mash"},
-{"url":"http://mirandawillson.bandcamp.com/album/new-years-revolution","img":"design-mwillson.jpg","title":"Miranda Willson album design"}
+{"url":"http://mirandawillson.bandcamp.com/album/new-years-revolution","img":"design-mwillson.jpg","title":"Miranda Willson album design"}]
 // {"url":"","img":"design-gws.jpg","title":"Good Willsmith gig poster"},
 // {"url":"","img":"design-hoodie.jpg","title":"WNUR 89.3FM hoodie design"}]
 
