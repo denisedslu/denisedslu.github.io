@@ -19,6 +19,7 @@ var writing =
 
 var code =
 [
+{"url":"http://www.washingtonpost.com/graphics/local/sexual-assault/","img":"code-sap.jpg?2","title":"Sexual assault survivors tell their stories"},
 {"url":"http://www.washingtonpost.com/graphics/local/baltimore-riots-recap/","img":"code-baltimore.png?2","title":"Timeline and charges in Freddie Gray case"},
 {"url":"http://www.washingtonpost.com/graphics/local/dc-voter-demographics/","img":"code-dcvote.png","title":"Changing D.C. voter demographics"},
 {"url":"http://www.washingtonpost.com/graphics/local/dc-marijuana-map/","img":"code-fedland.png","title":"Marijuana still illegal on federal land"},
@@ -35,7 +36,7 @@ var code =
 {"url":"http://www.washingtonpost.com/wp-srv/special/local/mcdonnell-gifts/","img":"code-mcdonnellgifts.png","title":"McDonnell gifts list"},
 {"url":"http://www.washingtonpost.com/wp-srv/special/local/silver-line-stations/","img":"code-silverline.png","title":"What's along the Silver Line?"},
 {"url":"http://apps.northbynorthwestern.com/commencement/2014/","img":"code-farewell.png","title":"Farewell from the Class of 2014"},
-{"url":"http://www.washingtonpost.com/wp-srv/special/local/world-cup-bars/","img":"code-worldcupbars.png","title":"Where to watch the World Cup in D.C."},
+// {"url":"http://www.washingtonpost.com/wp-srv/special/local/world-cup-bars/","img":"code-worldcupbars.png","title":"Where to watch the World Cup in D.C."},
 {"url":"http://www.washingtonpost.com/wp-srv/special/local/purple-line/","img":"code-purpleline.png","title":"Mapping the Purple Line"},
 {"url":"http://www.washingtonpost.com/lifestyle/magazine/date-lab-two-adventurous-spicy-food-lovers-hit-it-off/2014/09/25/2260f470-2c8d-11e4-9b98-848790384093_story.html","img":"code-datelab.png","title":"The Washington Post Date Lab widget"},
 {"url":"http://www.washingtonpost.com/wp-srv/special/world/malaysian-air-scale/","img":"code-malaysia.png","title":"The scale of the search for Flight MH370"},
