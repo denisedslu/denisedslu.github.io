@@ -19,17 +19,19 @@ var writing =
 
 var code =
 [
+{"url":"https://www.washingtonpost.com/graphics/national/billion-dollar-disasters/","img":"code-disasters.png?2","title":"Billion-dollar weather disaster in the U.S. since 1980"},
+{"url":"http://www.washingtonpost.com/local/crime/a-deadly-dc-community-that-has-yet-to-improve/2015/08/06/7abf3f60-3c94-11e5-b3ac-8a79bc44e5e2_graphic.html","img":"code-woodland.png?2","title":"A deadly D.C. community that has yet to improve"},
 {"url":"http://www.washingtonpost.com/graphics/local/sexual-assault/","img":"code-sap.jpg?2","title":"Sexual assault survivors tell their stories"},
-{"url":"http://www.washingtonpost.com/graphics/local/baltimore-riots-recap/","img":"code-baltimore.png?2","title":"Timeline and charges in Freddie Gray case"},
+// {"url":"http://www.washingtonpost.com/graphics/local/baltimore-riots-recap/","img":"code-baltimore.png?2","title":"Timeline and charges in Freddie Gray case"},
 {"url":"http://www.washingtonpost.com/graphics/local/dc-voter-demographics/","img":"code-dcvote.png","title":"Changing D.C. voter demographics"},
 {"url":"http://www.washingtonpost.com/wp-srv/special/local/witness-killings/","img":"code-witnesses.png","title":"Witness killings since 2004"},
-{"url":"http://www.washingtonpost.com/graphics/local/dc-marijuana-map/","img":"code-fedland.png","title":"Marijuana still illegal on federal land"},
+// {"url":"http://www.washingtonpost.com/graphics/local/dc-marijuana-map/","img":"code-fedland.png","title":"Marijuana still illegal on federal land"},
 {"url":"http://www.washingtonpost.com/graphics/local/homicides/","img":"code-homicides.png","title":"Tracking D.C.-area homicides"},
 // {"url":"http://www.washingtonpost.com/wp-srv/special/national/cia-interrogation-report/hayden-testimony/","img":"code-cia.png","title":"Hayden's CIA testimony"},
 {"url":"http://www.washingtonpost.com/wp-srv/special/national/ferguson-witnesses/","img":"code-ferguson.png","title":"Ferguson witness testimonies"},
 {"url":"http://www.washingtonpost.com/wp-srv/special/local/dc-mayor-2014/history/","img":"code-dc-mayor-history.gif","title":"D.C. mayor history"},
 // {"url":"http://www.washingtonpost.com/wp-srv/special/local/dc-mayor-2014/general-analysis/","img":"code-dc-mayor-analysis.png","title":"How Muriel Bowser won D.C."},
-{"url":"http://www.washingtonpost.com/wp-srv/special/local/va-senate-2014/results/","img":"code-va-senate.png","title":"2014 Virginia U.S. Senate election results"},
+// {"url":"http://www.washingtonpost.com/wp-srv/special/local/va-senate-2014/results/","img":"code-va-senate.png","title":"2014 Virginia U.S. Senate election results"},
 {"url":"http://www.washingtonpost.com/wp-srv/special/local/dc-mayor-2014/contributions/","img":"code-dc-mayor-money.png","title":"Money in the D.C. mayoral race"},
 {"url":"http://www.washingtonpost.com/wp-srv/special/local/dc-mayor-2014/voter-breakdown/","img":"code-dcvoters.png","title":"Who will pick D.C.'s new mayor?"},
 {"url":"http://www.washingtonpost.com/wp-srv/special/local/dc-mayor-2014/scenarios/","img":"code-dcmayor.png","title":"How to win the D.C. mayoral race"},
@@ -40,8 +42,8 @@ var code =
 {"url":"http://www.washingtonpost.com/wp-srv/special/local/purple-line/","img":"code-purpleline.png","title":"Mapping the Purple Line"},
 {"url":"http://www.washingtonpost.com/lifestyle/magazine/date-lab-two-adventurous-spicy-food-lovers-hit-it-off/2014/09/25/2260f470-2c8d-11e4-9b98-848790384093_story.html","img":"code-datelab.png","title":"The Washington Post Date Lab widget"},
 {"url":"http://www.washingtonpost.com/wp-srv/special/world/malaysian-air-scale/","img":"code-malaysia.png","title":"The scale of the search for Flight MH370"},
-{"url":"http://www.washingtonpost.com/wp-srv/special/world/ukraine-primer/","img":"code-ukraine.png","title":"Ukrainian crisis: Situation maps"},
-{"url":"http://www.washingtonpost.com/wp-srv/special/entertainment/house-of-cards/","img":"code-hoc.png","title":"House of Cards opening credits quiz"},
+// {"url":"http://www.washingtonpost.com/wp-srv/special/world/ukraine-primer/","img":"code-ukraine.png","title":"Ukrainian crisis: Situation maps"},
+// {"url":"http://www.washingtonpost.com/wp-srv/special/entertainment/house-of-cards/","img":"code-hoc.png","title":"House of Cards opening credits quiz"},
 {"url":"http://www.washingtonpost.com/wp-srv/special/sports/2014-olympics/history/","img":"code-olympics.png","title":"Evolving sports: Sports in Olympics history"}]
 
 var design = 

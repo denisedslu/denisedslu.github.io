@@ -14,9 +14,9 @@ function init() {
           var writing_also_block = ich.writing_also_block(v);
 
           if (v.also !== '') {
-              $('div.row#writing').find('ul[data-pub="' + v.pub + '"]').append(writing_also_block);  
+              $('div.row#words').find('ul[data-pub="' + v.pub + '"]').append(writing_also_block);  
           } else {
-              $('div.row#writing').find('ul[data-pub="' + v.pub + '"]').append(writing_block);
+              $('div.row#words').find('ul[data-pub="' + v.pub + '"]').append(writing_block);
           }
 
       });
@@ -24,8 +24,8 @@ function init() {
 
       $.each(code, function(k,v) {
           
-          var code_block = ich.code_block(v);
-          $('div.row#code').append(code_block);
+          var graphics_block = ich.graphics_block(v);
+          $('div.row#graphics').append(graphics_block);
 
       });
 
@@ -75,7 +75,7 @@ function init() {
         
       });
 
-      $('div.block.code, div.block.design').on('mouseover', function() {
+      $('div.block.graphics, div.block.design').on('mouseover', function() {
           $(this).find('img').addClass('active')
           $(this).find('p,div.mask').show();
       }).on('mouseout', function() {

@@ -22,7 +22,7 @@ a {
 	padding: 2px;
 }
 
-ul.sticky a:hover, div.row#writing a:hover, div.row#about a:hover {
+ul.sticky a:hover, div.row#words a:hover, div.row#about a:hover {
 	background-color: #FFFF94;
 }
 
@@ -62,7 +62,7 @@ div.row#about {
 	padding-bottom: 60px;
 }
 
-div.row#writing ul, div.row#resume ul, p.fira-sans {
+div.row#words ul, div.row#resume ul, p.fira-sans {
 	font-family: "fira-sans", Helvetica, Arial, sans-serif;
 	font-size: 1.2em;
 	line-height: 1.6em;
@@ -82,7 +82,7 @@ p.links {
 	margin: 25px 0 0 0;
 }
 
-div.block.code, div.block.design {
+div.block.graphics, div.block.design {
 	margin-bottom: 15px;
 	max-width: 480px;
 }
