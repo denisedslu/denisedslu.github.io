@@ -1,0 +1,7 @@
+{% for cell in data %}
+	<div class="block graphics posrel">
+		<p class="posabs hide"><a href="{{-- cell.url --}}" target="_blank"><span>{{-- cell.title --}}</span></a></p>	
+		<a class="hide posabs maskwrap" href="{{-- cell.url --}}" target="_blank"><div class="mask posabs"></div></a>
+		<img alt="{{-- cell.title --}}" src="images/{{-- cell.img --}}">
+	</div>
+{% endfor %}

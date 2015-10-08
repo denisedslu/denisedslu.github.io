@@ -91,12 +91,21 @@ div.block.photo {
 	max-width: 760px;
 }
 
+a.maskwrap {
+	top: 0;
+	bottom: 0;
+	left: 0;
+	right: 0;
+	margin: 0;
+}
+
 div.mask {
 	top: 0;
 	bottom: 0;
 	left: 0;
 	right: 0;
-	background-color: #000;
+	margin: 0;
+	background-color: rgba(0,0,0,0.5);
 }
 
 div.block img {
@@ -104,7 +113,7 @@ div.block img {
 }
 
 div.block img.active {
-	opacity: 0.3;
+	/*opacity: 0.9;*/
 }
 
 div.block p {

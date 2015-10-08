@@ -1,0 +1,8 @@
+{% for key,value in data.iteritems() %}
+	<p class="h3 fira-mono">{{-- key --}}</p>
+	<ul data-pub="{{-- key --}}" class="fira-sans">
+		{% for cell in value %}
+			<li><a href="{{-- cell.url --}}" target="_blank">{{-- cell.title --}}</a>{% if cell.also %}<span class="also-text"> (also on {{-- cell.also --}})</span>{% endif %}</li>
+		{% endfor %}
+	</ul>
+{% endfor %}

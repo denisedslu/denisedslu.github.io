@@ -1,0 +1,10 @@
+{% for cell in data %}
+	<div class="block design posrel">
+		<p class="posabs hide">{% if cell.url %}<a href="{{-- cell.url --}}" target="_blank">{% endif %}<span>{{-- cell.title --}}</span>{% if cell.url %}</a>{% endif %}</p>
+		{% if cell.url %}
+		<a class="hide posabs maskwrap" href="{{-- cell.url --}}" target="_blank"><div class="mask posabs"></div></a>
+		{% else %}
+		<div class="mask hide posabs"></div>
+		<img alt="{{-- cell.title --}}" src="images/{{-- cell.img --}}">
+	</div>
+{% endfor %}
