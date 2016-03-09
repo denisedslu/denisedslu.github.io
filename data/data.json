@@ -19,6 +19,7 @@
 		{"pub":"Eat Your Jams","url":"http://eatyourjams.tumblr.com/","title":"An amateur cooking and food exploration blog","also":""}
 	],
 	"code" : [
+		{"url":"https://www.washingtonpost.com/graphics/health/flint-water-crisis/","img":"code-flint.jpg","title":"How one economic decision in Flint caused a health crisis"},
 		{"url":"https://www.washingtonpost.com/graphics/national/mass-shootings-in-america/","img":"code-shootings.jpg","title":"The math of mass shootings"},
 		{"url":"https://www.washingtonpost.com/graphics/national/gauging-climate-change/","img":"code-climatechange.jpg","title":"Gauging a warming world"},
 		{"url":"https://www.washingtonpost.com/graphics/world/explaining-the-syrian-conflict/","img":"code-syria.jpg","title":"Explaining the Syrian conflict"},
