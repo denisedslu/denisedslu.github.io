@@ -26,7 +26,7 @@ ul.sticky a:hover, div.row#words a:hover, div.row#about a:hover {
 	background-color: #FFFF94;
 }
 
-div.row#photo a, div.row#resume a {
+div.section a {
 	padding: 2px;
 	background-color: #FFFF94;
 }
