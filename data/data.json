@@ -5,6 +5,8 @@
 		{"pub":"Pretty Much Amazing","url":"http://prettymuchamazing.com/author/deniselu","title":"words about music"}
 	],
 	"code" : [
+		{"url":"https://www.washingtonpost.com/graphics/politics/how-fair-is-the-electoral-college/","img":"code-electoralcollege.jpg","title":"Is the electoral college fair?"},
+		{"url":"https://www.washingtonpost.com/graphics/politics/2016-election/election-remix/","img":"code-electionremix.gif","title":"The 2016 election in sound"},
 		{"url":"https://www.washingtonpost.com/graphics/lifestyle/national-museum-of-african-american-history-and-culture/guided-tour/","img":"code-museum.gif","title":"African American history museum tour"},
 		{"url":"https://www.washingtonpost.com/graphics/sports/olympics/scale-of-the-olympics/","img":"code-olyscale.gif","title":"Scale of the Olympics"},
 		{"url":"https://www.washingtonpost.com/graphics/politics/2016-election/vice-presidential-candidate-finder/democratic/","img":"code-vp.jpg","title":"Vice president finder"},
