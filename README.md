@@ -4,5 +4,5 @@ page for [deniselu.com](http://deniselu.com/)
 
 shouts out to:
 
-+ [Fira](http://www.carrois.com/fira-3-1/)
++ [Fira](https://carrois.com/typefaces/FiraSans/)
 + [Jinja2](http://jinja.pocoo.org/docs/dev/)
