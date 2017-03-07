@@ -1,40 +1,24 @@
-{
-	"writing": [
-		{"pub":"Mashable","url":"http://mashable.com/2013/08/23/denmark-innovation/#HDQRevZDVuqJ","title":"words about tech"},
-		{"pub":"PBS Mediashift","url":"http://www.pbs.org/mediashift/2014/01/behind-the-scenes-of-npr-planet-moneys-t-shirt-project/","title":"words about journalism"},
-		{"pub":"Pretty Much Amazing","url":"http://prettymuchamazing.com/author/deniselu","title":"words about music"}
-	],
-	"code" : [
-		{"url":"https://www.washingtonpost.com/graphics/politics/how-fair-is-the-electoral-college/","img":"code-electoralcollege.jpg","title":"Is the electoral college fair?"},
-		{"url":"https://www.washingtonpost.com/graphics/politics/2016-election/election-remix/","img":"code-electionremix.gif","title":"The 2016 election in sound"},
-		{"url":"https://www.washingtonpost.com/graphics/lifestyle/national-museum-of-african-american-history-and-culture/guided-tour/","img":"code-museum.gif","title":"African American history museum tour"},
-		{"url":"https://www.washingtonpost.com/graphics/sports/olympics/scale-of-the-olympics/","img":"code-olyscale.gif","title":"Scale of the Olympics"},
-		{"url":"https://www.washingtonpost.com/graphics/politics/2016-election/vice-presidential-candidate-finder/democratic/","img":"code-vp.jpg","title":"Vice president finder"},
-		{"url":"https://www.washingtonpost.com/graphics/business/wonk/housing/overview/","img":"code-housing.jpg","title":"America’s great housing divide"},
-		{"url":"https://www.washingtonpost.com/graphics/sports/nfl-draft-history/","img":"code-nfl.jpg","title":"How your team fared in the NFL draft"},
-		{"url":"https://www.washingtonpost.com/graphics/health/flint-water-crisis/","img":"code-flint.jpg","title":"How one economic decision in Flint caused a health crisis"},
-		{"url":"https://www.washingtonpost.com/graphics/national/mass-shootings-in-america/","img":"code-shootings.jpg","title":"The math of mass shootings"},
-		{"url":"https://www.washingtonpost.com/graphics/national/gauging-climate-change/","img":"code-climatechange.jpg","title":"Gauging a warming world"},
-		{"url":"https://www.washingtonpost.com/graphics/world/explaining-the-syrian-conflict/","img":"code-syria.jpg","title":"Explaining the Syrian conflict"},
-		{"url":"http://www.washingtonpost.com/graphics/world/apollo-archive/","img":"code-apollo.gif","title":"Exploring the Apollo archive"},
-		{"url":"http://www.washingtonpost.com/graphics/local/2015-papal-visit/popemobile-illustrated-history/","img":"code-popemobile.gif","title":"An illustrated 215-year history of the popemobile"},
-		{"url":"http://www.washingtonpost.com/graphics/lifestyle/trifinia/","img":"code-trifinia.gif","title":"Cornering America's tri-points"},
-		{"url":"https://www.washingtonpost.com/graphics/national/billion-dollar-disasters/","img":"code-disasters.png?2","title":"Billion-dollar weather disaster in the U.S. since 1980"},
-		{"url":"http://www.washingtonpost.com/local/crime/a-deadly-dc-community-that-has-yet-to-improve/2015/08/06/7abf3f60-3c94-11e5-b3ac-8a79bc44e5e2_graphic.html","img":"code-woodland.png?2","title":"A deadly D.C. community that has yet to improve"},
-		{"url":"http://www.washingtonpost.com/graphics/local/homicides/","img":"code-homicides.gif","title":"Tracking D.C.-area homicides"},
-		{"url":"https://www.washingtonpost.com/graphics/local/purple-line/","img":"code-purpleline.png","title":"Mapping the Purple Line"},
-		{"url":"http://www.washingtonpost.com/wp-srv/special/world/malaysian-air-scale/","img":"code-malaysia.png","title":"The scale of the search for Flight MH370"},
-		{"url":"http://apps.northbynorthwestern.com/commencement/2014/","img":"code-farewell.png","title":"NBN Class of 2014 farewell"}
-	],
-	"design" : [
-		{"url":"https://www.instagram.com/p/poL6FKoHSl/","img":"design-wnurbfast.jpg","title":"WNUR 89.3FM mug design"},
-		{"url":"http://www.washingtonpost.com/blogs/innovations/wp/2014/07/23/what-paris-looks-like-with-an-echo/","img":"design-databending.png","title":"What Paris looks like with an echo - databending"},
-		{"url":"http://denisedslu.tumblr.com/post/78754386381/im-a-sucker-for-digital-collages-and-ive-been","img":"design-bball.jpg","title":"Tiny baseball - photo mash"}
-	],
-	"photo": [
-		{"img":"photo-1.jpg","title":"Park Avenue voice tunnel, New York"},
-		{"img":"photo-7.jpg","title":"Centre Pompidou, Paris"},
-		{"img":"photo-9.jpg","title":"In It Together Fest, D.C."},
-		{"img":"photo-14.jpg","title":"Uptown, Chicago"}
-	]
-}
+[
+{"url":"https://www.washingtonpost.com/graphics/politics/trump-presidential-budget-2018/","img":"code-budget.jpg","title":"Trump’s defense budget increase"},
+{"url":"https://www.washingtonpost.com/graphics/sports/superbowl-remix-2017/","img":"code-sbremix.gif","title":"The path to Super Bowl LI"},
+{"url":"https://www.washingtonpost.com/graphics/politics/how-fair-is-the-electoral-college/","img":"code-electoralcollege.jpg","title":"Is the electoral college fair?"},
+{"url":"https://www.washingtonpost.com/graphics/politics/2016-election/election-remix/","img":"code-electionremix.gif","title":"The 2016 election in sound"},
+{"url":"https://www.washingtonpost.com/graphics/politics/2016-election/write-in-votes/","img":"code-writein.jpg","title":"2016 election write-ins"},
+{"url":"https://www.washingtonpost.com/graphics/politics/2016-election/when-was-america-great/","img":"code-americagreat.png","title":"When was America great?"},
+{"url":"https://www.washingtonpost.com/graphics/lifestyle/national-museum-of-african-american-history-and-culture/guided-tour/","img":"code-museum.gif","title":"African American history museum tour"},
+{"url":"https://www.washingtonpost.com/graphics/sports/olympics/scale-of-the-olympics/","img":"code-olyscale.gif","title":"Scale of the Olympics"},
+{"url":"https://www.washingtonpost.com/graphics/politics/2016-election/vice-presidential-candidate-finder/democratic/","img":"code-vp.jpg","title":"Vice president finder"},
+{"url":"https://www.washingtonpost.com/graphics/business/wonk/housing/overview/","img":"code-housing.jpg","title":"America’s great housing divide"},
+{"url":"https://www.washingtonpost.com/graphics/sports/nfl-draft-history/","img":"code-nfl.jpg","title":"How your team fared in the NFL draft"},
+{"url":"https://www.washingtonpost.com/graphics/health/flint-water-crisis/","img":"code-flint.jpg","title":"How one economic decision in Flint caused a health crisis"},
+{"url":"https://www.washingtonpost.com/graphics/national/mass-shootings-in-america/","img":"code-shootings.jpg","title":"The math of mass shootings"},
+{"url":"https://www.washingtonpost.com/graphics/national/gauging-climate-change/","img":"code-climatechange.jpg","title":"Gauging a warming world"},
+{"url":"https://www.washingtonpost.com/graphics/world/explaining-the-syrian-conflict/","img":"code-syria.jpg","title":"Explaining the Syrian conflict"},
+{"url":"http://www.washingtonpost.com/graphics/world/apollo-archive/","img":"code-apollo.gif","title":"Exploring the Apollo archive"},
+{"url":"http://www.washingtonpost.com/graphics/local/2015-papal-visit/popemobile-illustrated-history/","img":"code-popemobile.gif","title":"An illustrated 215-year history of the popemobile"},
+{"url":"http://www.washingtonpost.com/graphics/lifestyle/trifinia/","img":"code-trifinia.gif","title":"Cornering America's tri-points"},
+{"url":"https://www.washingtonpost.com/graphics/national/billion-dollar-disasters/","img":"code-disasters.png?2","title":"Billion-dollar weather disaster in the U.S. since 1980"},
+{"url":"http://www.washingtonpost.com/local/crime/a-deadly-dc-community-that-has-yet-to-improve/2015/08/06/7abf3f60-3c94-11e5-b3ac-8a79bc44e5e2_graphic.html","img":"code-woodland.png?2","title":"A deadly D.C. community that has yet to improve"},
+{"url":"http://www.washingtonpost.com/graphics/local/homicides/","img":"code-homicides.gif","title":"Tracking D.C.-area homicides"},
+{"url":"https://www.washingtonpost.com/graphics/local/purple-line/","img":"code-purpleline.png","title":"Mapping the Purple Line"},
+{"url":"http://www.washingtonpost.com/wp-srv/special/world/malaysian-air-scale/","img":"code-malaysia.png","title":"The scale of the search for Flight MH370"}]
