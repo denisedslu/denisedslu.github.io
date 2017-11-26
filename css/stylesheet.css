@@ -11,14 +11,27 @@
 .fira-mono { font-family: "fira-mono", Georgia, serif; }
 .fira-sans { font-family: "fira-sans", Helvetica, Arial, sans-serif !important;}
 
-.posrel {position: relative;}
-.posabs {position: absolute;}
-.hide {display: none;}
-
 a {
 	text-decoration: none;
 	color: #000;
-	padding: 2px;
+}
+
+.h1, .h2 {
+	margin: 0;
+}
+
+.h1 {font-size: 2.5em;}
+.h2 {font-size: 1.3em;}
+.h3 {font-size: 1.1em;}
+
+.h2 br {
+	display: none;
+}
+
+p.fira-sans {
+	font-family: "fira-sans", Helvetica, Arial, sans-serif;
+	font-size: 1.2em;
+	line-height: 1.6em;
 }
 
 div#content {
@@ -37,25 +50,8 @@ div.row#about {
 	padding-bottom: 30px;
 }
 
-div.row#graphics {
-	max-width: 400px;
-	margin: 0 auto;
-}
-
-a:hover {
+div.row#about a:hover {
 	background-color: #FFFF94;
-}
-
-.h1, .h2 {
-	margin: 0;
-}
-
-.h1 {font-size: 2.5em;}
-.h2 {font-size: 1.3em;}
-.h3 {font-size: 1.1em;}
-
-.h2 br {
-	display: none;
 }
 
 div.row {
@@ -63,36 +59,39 @@ div.row {
 	border-bottom: 3px solid #FFFF94;
 }
 
-p.fira-sans {
-	font-family: "fira-sans", Helvetica, Arial, sans-serif;
-	font-size: 1.2em;
-	line-height: 1.6em;
+/*graphics*/
+
+div.row#graphics {
+	max-width: 400px;
+	margin: 0 auto;
 }
 
-div.block.graphics {
-	margin-bottom: 15px;
+a.blocklink {
+	margin-bottom: 50px;
 	width: 100%;
+	display: block;
 }
 
-a.maskwrap {
-	top: 0;
-	left: 0;
-	margin: 0;
-	width: 100%;
-	height: 100%;
+a.blocklink.active p {
+	background-color: #FFFF94;
 }
 
-a.maskwrap:hover {
-	background-color: transparent;
+div.imgwrap {
+	position: relative;
 }
 
 div.mask {
-	top: 0;
-	left: 0;
-	margin: 0;
+	position: absolute;
 	width: 100%;
 	height: 100%;
-	background-color: rgba(0,0,0,0.5);
+	top: 0;
+	left: 0;
+	background-color: #FFFF94;
+	opacity: 0;
+}
+
+a.blocklink.active div.mask {
+	opacity: 0.5;
 }
 
 div.block img {
@@ -102,14 +101,8 @@ div.block img {
 div.block p {
 	font-family: "fira-sans", Helvetica, Arial, sans-serif;
 	font-size: 1.2em;
-	z-index: 10;
-	margin: 10px 10px 0 10px;
-	pointer-events: none;
-}
-
-div.block p span {
+	margin: 0 0 3px 0;
 	padding: 2px;
-	background-color: #FFFF94;
 }
 
 @media (max-width: 480px) {

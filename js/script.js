@@ -3,10 +3,10 @@ function init() {
 }
 
 function eventListeners() {
-  $('div.block.graphics').on('mouseover', function() {
-      $(this).find('p,.maskwrap,.mask').show();
+  $('a.blocklink').on('mouseover', function() {
+      $(this).addClass('active');
   }).on('mouseout', function() {
-      $(this).find('p,.maskwrap,.mask').hide();
+      $(this).removeClass('active');
   });
 }
 

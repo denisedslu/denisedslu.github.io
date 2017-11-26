@@ -1,7 +1,11 @@
 {% for cell in data %}
-	<div class="block graphics posrel">
-		<p class="posabs hide"><a href="{{-- cell.url --}}" target="_blank"><span>{{-- cell.title --}}</span></a></p>	
-		<a class="hide posabs maskwrap" href="{{-- cell.url --}}" target="_blank"><div class="mask posabs"></div></a>
-		<img alt="{{-- cell.title --}}" src="images/{{-- cell.img --}}?12345">
-	</div>
+	<a class="blocklink" href="{{-- cell.url --}}" target="_blank" alt="{{-- cell.title --}}">
+		<div class="block graphics">
+			<p>{{-- cell.title --}}</p>
+			<div class="imgwrap">
+				<div class="mask"></div>
+				<img alt="{{-- cell.title --}}" src="images/{{-- cell.img --}}?12345">
+			</div>
+		</div>
+	</a>
 {% endfor %}
