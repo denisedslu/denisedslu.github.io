@@ -30,9 +30,9 @@ a:hover {
 }
 
 div#content {
-	padding: 0 10px;
+	padding: 30px 10px;
 	max-width: 600px;
-	margin:  0 auto 50px auto;
+	margin:  0 auto;
 }
 
 div.row#about {
