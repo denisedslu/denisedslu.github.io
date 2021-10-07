@@ -24,16 +24,9 @@ a:hover {
 	background-color: #FFFF94;
 }
 
-.h1, .h2 {
+.h1 {
 	margin: 0;
-}
-
-.h1 {font-size: 2.5em;}
-.h2 {font-size: 1.3em;}
-.h3 {font-size: 1.1em;}
-
-.h2 br {
-	display: none;
+	font-size: 1.3em;
 }
 
 div#content {
@@ -53,10 +46,4 @@ p.blocklink {
 	margin: 10px 0;
 	font-size: 1.2em;
 	line-height: 1.4em;
-}
-
-@media (max-width: 480px) {
-	.h2 br {
-		display: inline;
-	}
 }
