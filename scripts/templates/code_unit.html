@@ -1,11 +1,3 @@
 {% for cell in data %}
-	<a class="blocklink" href="{{-- cell.url --}}" target="_blank" alt="{{-- cell.title --}}">
-		<div class="block graphics">
-			<p>{{-- cell.title --}}</p>
-			<div class="imgwrap">
-				<div class="mask"></div>
-				<img alt="{{-- cell.title --}}" src="images/{{-- cell.img --}}?12345">
-			</div>
-		</div>
-	</a>
+	<p class="blocklink fira-sans"><a href="{{-- cell.url --}}" target="_blank">{{-- cell.title --}}</p>
 {% endfor %}
