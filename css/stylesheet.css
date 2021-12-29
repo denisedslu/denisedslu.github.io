@@ -35,7 +35,7 @@ div#content {
 	margin:  0 auto;
 }
 
-div.row#about {
+div.row#about, div.row#graphics {
 	margin: 0 auto 30px auto;
 	padding-top: 15px;
 	padding-bottom: 30px;
