@@ -61,9 +61,9 @@ p.i-name {
 }
 
 p.i-sub {
-	font-size: 1em;
+	font-size: 0.9em;
 	line-height: 1.2em;
 	color:#666;
 	margin: 0;
-	font-family: "fira-sans-light", Helvetica, Arial, sans-serif !important;
+	font-family: "fira-mono", Georgia, serif;
 }
