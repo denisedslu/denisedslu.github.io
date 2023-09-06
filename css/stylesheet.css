@@ -4,12 +4,16 @@
 }
 
 @font-face {
-	font-family: "fira-sans";
+	font-family: "fira-sans-light";
 	src: url("../fonts/FiraSans-Light.otf");
 }
 
+@font-face {
+	font-family: "fira-sans-medium";
+	src: url("../fonts/FiraSans-Medium.ttf");
+}
+
 .fira-mono { font-family: "fira-mono", Georgia, serif; }
-.fira-sans { font-family: "fira-sans", Helvetica, Arial, sans-serif !important;}
 
 body {
 	color: #484848;
@@ -17,7 +21,7 @@ body {
 
 a {
 	text-decoration: none;
-	color: #3e73c3;
+	color: #14b0a2;
 }
 
 a:hover {
@@ -35,15 +39,31 @@ div#content {
 	margin:  0 auto;
 }
 
-div.row#about, div.row#graphics {
+div.row#about, div.row#blocks {
 	margin: 0 auto 30px auto;
-	padding-top: 15px;
 	padding-bottom: 30px;
 	border-bottom: 3px solid #FFFF94;
 }
 
-p.blocklink {
-	margin: 10px 0;
+div.byline {
+	margin: 20px 0;
+}
+
+div.byline:last-child {
+	margin-bottom: 0;
+}
+
+p.b-link {
 	font-size: 1.15em;
 	line-height: 1.4em;
+	margin: 0;
+	font-family: "fira-sans-medium", Helvetica, Arial, sans-serif !important;
+}
+
+p.b-pub {
+	font-size: 1em;
+	line-height: 1.2em;
+	color:#666;
+	margin: 0;
+	font-family: "fira-sans-light", Helvetica, Arial, sans-serif !important;
 }
