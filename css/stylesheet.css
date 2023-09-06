@@ -45,22 +45,22 @@ div.row#about, div.row#blocks {
 	border-bottom: 3px solid #FFFF94;
 }
 
-div.byline {
+div.item {
 	margin: 20px 0;
 }
 
-div.byline:last-child {
+div.item:last-child {
 	margin-bottom: 0;
 }
 
-p.b-link {
+p.i-name {
 	font-size: 1.15em;
 	line-height: 1.4em;
 	margin: 0;
 	font-family: "fira-sans-medium", Helvetica, Arial, sans-serif !important;
 }
 
-p.b-pub {
+p.i-sub {
 	font-size: 1em;
 	line-height: 1.2em;
 	color:#666;
