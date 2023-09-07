@@ -39,7 +39,7 @@ div#content {
 	margin:  0 auto;
 }
 
-div.row#about, div.row#blocks {
+div.row {
 	margin: 0 auto 30px auto;
 	padding-bottom: 30px;
 	border-bottom: 3px solid #FFFF94;
